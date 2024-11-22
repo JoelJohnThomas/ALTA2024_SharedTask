@@ -1,0 +1,2 @@
+Base model score is 0.6051663889550107 
+Tuned model score is 0.6260993053416829 
